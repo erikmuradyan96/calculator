@@ -1,0 +1,13 @@
+.input {
+    background-color:rgb(200, 240, 233);
+    border: 5px solid rgb(100, 25, 147);
+    width: 180px;
+    height: 40px;
+    margin-right: 30px;
+}
+
+.gitcode {
+    display: block;
+}
+
+
